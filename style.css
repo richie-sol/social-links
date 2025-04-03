@@ -20,7 +20,7 @@ body{
     width: 380px;
     border-radius: 15px;
     text-align: center;
-    height: 600px;
+    height: 650px;
     background-color: var(--grey800);
     padding-top: 20px;
 }
@@ -29,7 +29,7 @@ header{
 }
 header img{
     width: 150px;
-    border-radius:30%;
+    border-radius:40%;
      
 }
 
